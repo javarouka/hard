@@ -11,6 +11,6 @@ public class HardApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		org.junit.Assert.assertEquals(1,1);
 	}
-
 }
